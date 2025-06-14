@@ -8,11 +8,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Active Directory</b>
-  - [Preparing AD Infrastructure in Azure]
-  - [Deploying Active Directory]
-  - [Group Policy and Managing Accounts]
-  - 
-Creating Users with PowerShell
+  - [Group Policy and Setting up a Welcome message]
+  - [Group Policy and Setting up password policies and test enforcement.]
 
 
 <h2>🤳Connect with me:</h2>
