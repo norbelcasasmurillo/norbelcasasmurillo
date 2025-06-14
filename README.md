@@ -9,7 +9,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Group Policy and Setting up a Welcome message]
-  - [Group Policy and Setting up password policies and test enforcement.]
+  - [Group Policy and Setting up password policies and test enforcement]
 
 
 <h2>🤳Connect with me:</h2>
