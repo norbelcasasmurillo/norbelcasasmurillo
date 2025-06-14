@@ -8,8 +8,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Active Directory</b>
-  - [Group Policy and Setting up a Welcome message]
-  - [Group Policy and Setting up password policies and test enforcement]
+  - [Group Policy: Welcome Message]
+  - [Group Policy: Password Policies and Test Enforcement]
 
 
 <h2>🤳Connect with me:</h2>
