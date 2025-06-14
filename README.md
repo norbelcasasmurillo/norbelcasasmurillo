@@ -11,6 +11,12 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+- <b>Active Directory</b>
+  - [Preparing AD Infrastructure in Azure]
+  - [Deploying Active Directory]
+  - [Group Policy and Managing Accounts]
+  - 
+Creating Users with PowerShell
 
 
 <h2>🤳Connect with me:</h2>
