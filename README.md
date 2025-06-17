@@ -6,7 +6,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/norbelcasasmurillo/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/norbelcasasmurillo/osticket-post-install)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/norbelcasasmurillo/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Group Policy: Welcome Message]
   - [Group Policy: Password Policies and Test Enforcement]
