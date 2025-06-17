@@ -8,7 +8,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/norbelcasasmurillo/osticket-post-install)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/norbelcasasmurillo/ticket-lifecycle)
 - <b>Active Directory</b>
-  - [Group Policy: Welcome Message]
+  - [Group Policy: Welcome Message](https://github.com/norbelcasasmurillo/welcome-message)
   - [Group Policy: Password Policies and Test Enforcement]
 
 
