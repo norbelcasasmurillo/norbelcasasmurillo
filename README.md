@@ -9,7 +9,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/norbelcasasmurillo/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Group Policy: Welcome Message](https://github.com/norbelcasasmurillo/welcome-message)
-  - [Group Policy: Password Policies and Test Enforcement](https://github.com/norbelcasasmurillo/passwordpolicies-testenf)
+  - [Group Policy: Password Policies](https://github.com/norbelcasasmurillo/password-policy))
 
 
 <h2>🤳Connect with me:</h2>
