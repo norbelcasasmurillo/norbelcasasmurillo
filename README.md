@@ -7,7 +7,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/norbelcasasmurillo/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/norbelcasasmurillo/osticket-post-install)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/norbelcasasmurillo/ticket-lifecycle)
-- <b>Active Directory</b>
+- <b>Group Policy</b>
   - [Group Policy: Welcome Message](https://github.com/norbelcasasmurillo/welcome-message)
   - [Group Policy: Password Policies](https://github.com/norbelcasasmurillo/password-policy)
 
